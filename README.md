@@ -1,7 +1,5 @@
 # P01 - Recipe
 
-Project 01 - Recipe (40pts)
-
 Create a page that displays a recipe.  You can use any recipe you want, but it must follow this format:
 ![Recipe Project Example](https://github.com/paduawebdesign/p01-recipe/blob/master/RecipeProjectExample.png "Recipe Project Example")
 
