@@ -1,0 +1,54 @@
+/*
+* Kara Turner
+* October 16, 2018
+* Project 01-Recipe
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+
+h1 {
+    
+    text-align: center;
+    color: #00394d;
+    font-family: "Arial Black", Gadget, sans-serif;
+    
+}
+
+body {
+    
+    font-family: "Arial Black", Gadget, sans-serif;
+    background-color: #ccf1ff;
+    color: #00394d;
+    
+}
+
+h3 {
+    
+    font-family: "Arial Black", Gadget, sans-serif
+    color: #00394d;
+    
+}
+
+a:link {
+    color: #ffff00;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: hotpink;
+}
+
+a:hover,
+a:focus {
+    color: #ffff1a;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #000066;
+}
